@@ -1,5 +1,6 @@
 {
     "name": "Cat",
+    "version": "0.0.1",
     "description": "Just a cat",
     "dependencies": {
         "device": "*"
